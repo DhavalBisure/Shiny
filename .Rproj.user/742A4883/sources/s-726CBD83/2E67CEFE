@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1598784722484.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1966373840",
+    "id" : "2E67CEFE",
+    "lastKnownWriteTime" : 1598787540,
+    "last_content_update" : 1598787540522,
+    "path" : "C:/Users/Bisure/Desktop/R/Project_Shiny/Shiny/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+        "cursorPosition" : "43,6",
+        "scrollLine" : "38"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
